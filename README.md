@@ -63,9 +63,9 @@
 | **작업 기한**        | **프로젝트 명**                     | **이동**  |
 |-----------------|-------------------------------|-------|
 | 23.08.01~24.05.31 | 현대중공업 선박도장 VR 현장  (Front)        | [->](https://www.youtube.com/watch?v=s0oz-7WUaPI)|
-| 22.05.01~23.02.01 | 화승R&A 디지털트윈 (Back)        | [->](https://www.youtube.com/watch?v=XxRmXwlKMfc) |
-| 22.12.01~23.02.17 | LG U+ 드론쇼 XR             | [->](https://www.youtube.com/watch?v=Ba8ueUgozys ) |
 | 23.01.02~23.06.30 | 네오넌트 설비 정보 조회 앱 프로젝트                | [X] |
+| 22.12.01~23.02.17 | LG U+ 드론쇼 XR             | [->](https://www.youtube.com/watch?v=Ba8ueUgozys ) |
+| 22.05.01~23.02.01 | 화승R&A 디지털트윈 (Back)        | [->](https://www.youtube.com/watch?v=XxRmXwlKMfc) |
 
 ---
 
