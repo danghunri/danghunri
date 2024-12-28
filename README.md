@@ -1,17 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=💻%20Sanghoon's%20Profile%20💻&fontSize=70&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=%20Sanghoon's%20Profile%20👋🏻&fontSize=70&fontAlign=50)
 
 ---
 
-### 🚀 Welcome to my GitHub profile! 🚀  
-안녕하세요, 끊임없이 성장하는 개발자 **이상훈**입니다!  
-배움을 즐기고, 도전과 실패를 통해 발전하는 것을 목표로 하고 있습니다. 🌟
+###  🚀 My Profile  🚀 
+끊임없이 도전하며 효율적이고 창의적인 해결책을 추구합니다.<br />
+함께 성장하며 협업의 가치를 만드는, 다양한 기술을 아우르는 개발자 **이상훈**입니다.
 
 ---
 
-### 📚 Tech Stack
-#### ⚡ Platforms & Languages ⚡
+###  ✨ Tech Stack ✨
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
@@ -36,7 +35,7 @@
 
 ---
 
-### 🔨 Tools I Use
+### 🛠 Tools 🛠
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" />
@@ -46,7 +45,7 @@
 
 ---
 
-### 🌟 GitHub Stats
+### 🌟 Stats 🌟
 
 <div align="center">
   
@@ -57,26 +56,19 @@
 
 ---
 
-### 📅 Projects Overview
+### 📅 Projects 📅
 
-#### 💻 Project Timeline
 | **작업 기한**        | **프로젝트 명**                     | **이동**  |
 |-----------------|-------------------------------|-------|
-| 23.08.01~24.05.31 | 현대중공업 선박도장 VR 현장  (Front)        | [->](https://www.youtube.com/watch?v=s0oz-7WUaPI)|
-| 23.01.02~23.06.30 | 네오넌트 설비 정보 조회 앱 프로젝트                | [X] |
-| 22.12.01~23.02.17 | LG U+ 드론쇼 XR             | [->](https://www.youtube.com/watch?v=Ba8ueUgozys ) |
-| 22.05.01~23.02.01 | 화승R&A 디지털트윈 (Back)        | [->](https://www.youtube.com/watch?v=XxRmXwlKMfc) |
+| 23.08.01~24.05.31 | 현대중공업 선박도장 VR 현장  (Front)        | [🔗](https://www.youtube.com/watch?v=s0oz-7WUaPI)|
+| 23.01.02~23.06.30 | 네오넌트 설비 정보 조회 앱 프로젝트                | ✖️ |
+| 22.12.01~23.02.17 | LG U+ 드론쇼 XR             | [🔗](https://www.youtube.com/watch?v=Ba8ueUgozys ) |
+| 22.05.01~23.02.01 | 화승R&A 디지털트윈 (Back)        | [🔗](https://www.youtube.com/watch?v=XxRmXwlKMfc) |
 
 ---
 
-### 📫 How to reach me:
+### 📫 Contact 📫
 - **Email**: sanghoon0120@gmail.com
-
----
-
-### 🥂 재미있는 사실:
-- 🎨 새로운 기술과 도구를 배우는 것을 좋아합니다.
-- 🚴‍♂️ 자유시간에는 프로그래밍을 하는 편입니다.
 
 ---
 
